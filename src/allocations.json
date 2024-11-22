@@ -1,0 +1,2574 @@
+[
+  {
+    "course": "COMP1511",
+    "allocation": {
+      "class": {
+        "consult": [
+          {
+            "instructors": [
+              "z5206727"
+            ],
+            "weeks": "3",
+            "day": "Tue",
+            "start": "18:00",
+            "end": "20:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5492092"
+            ],
+            "weeks": "3",
+            "day": "Fri",
+            "start": "12:00",
+            "end": "14:00",
+            "mode": "f2f",
+            "location": "H13 Room 1040"
+          },
+          {
+            "instructors": [
+              "z5311190",
+              "z5206727"
+            ],
+            "weeks": "3",
+            "day": "Sat",
+            "start": "10:00",
+            "end": "12:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5481519"
+            ],
+            "weeks": "3",
+            "day": "Sat",
+            "start": "12:00",
+            "end": "14:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5478184"
+            ],
+            "weeks": "4",
+            "day": "Mon",
+            "start": "16:00",
+            "end": "18:00",
+            "mode": "f2f",
+            "location": "Elec G03"
+          },
+          {
+            "instructors": [
+              "z5359839"
+            ],
+            "weeks": "4",
+            "day": "Mon",
+            "start": "18:00",
+            "end": "20:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5413977",
+              "z5505620"
+            ],
+            "weeks": "4",
+            "day": "Tue",
+            "start": "18:00",
+            "end": "20:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5600603"
+            ],
+            "weeks": "4",
+            "day": "Wed",
+            "start": "9:00",
+            "end": "11:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5477317"
+            ],
+            "weeks": "4",
+            "day": "Wed",
+            "start": "14:00",
+            "end": "16:00",
+            "mode": "f2f",
+            "location": "K17 Sem 113"
+          },
+          {
+            "instructors": [
+              "z5587745"
+            ],
+            "weeks": "4",
+            "day": "Wed",
+            "start": "16:00",
+            "end": "18:00",
+            "mode": "f2f",
+            "location": "Tyree G16"
+          },
+          {
+            "instructors": [
+              "z3330012",
+              "z5413977",
+              "z5505620"
+            ],
+            "weeks": "4",
+            "day": "Wed",
+            "start": "18:00",
+            "end": "20:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5418566",
+              "z5488485"
+            ],
+            "weeks": "4",
+            "day": "Fri",
+            "start": "12:00",
+            "end": "14:00",
+            "mode": "f2f",
+            "location": "H13 Room 1040"
+          },
+          {
+            "instructors": [
+              "z5594060",
+              "z5362287"
+            ],
+            "weeks": "4",
+            "day": "Sat",
+            "start": "12:00",
+            "end": "14:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5594060"
+            ],
+            "weeks": "4",
+            "day": "Sat",
+            "start": "14:00",
+            "end": "16:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5592920",
+              "z5505620",
+              "z5488485",
+              "z5492092"
+            ],
+            "weeks": "5",
+            "day": "Mon",
+            "start": "9:00",
+            "end": "11:00",
+            "mode": "f2f",
+            "location": "Colombo LG02"
+          },
+          {
+            "instructors": [
+              "z5264081",
+              "z5592920",
+              "z5481519",
+              "z5600603"
+            ],
+            "weeks": "5",
+            "day": "Mon",
+            "start": "16:00",
+            "end": "18:00",
+            "mode": "f2f",
+            "location": "Elec G03"
+          },
+          {
+            "instructors": [
+              "z5311190",
+              "z5587745",
+              "z5505620",
+              "z5359839"
+            ],
+            "weeks": "5",
+            "day": "Mon",
+            "start": "18:00",
+            "end": "20:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5591928",
+              "z5363013",
+              "z5480745"
+            ],
+            "weeks": "5",
+            "day": "Tue",
+            "start": "14:00",
+            "end": "16:00",
+            "mode": "f2f",
+            "location": "K17 Sem 113"
+          },
+          {
+            "instructors": [
+              "z5505620",
+              "z5413977",
+              "z5600603"
+            ],
+            "weeks": "5",
+            "day": "Tue",
+            "start": "18:00",
+            "end": "20:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5600603",
+              "z5418566",
+              "z5594060",
+              "z5587745"
+            ],
+            "weeks": "5",
+            "day": "Wed",
+            "start": "9:00",
+            "end": "11:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5505620",
+              "z5481519",
+              "z5481743",
+              "z5477317",
+              "z5600603"
+            ],
+            "weeks": "5",
+            "day": "Wed",
+            "start": "14:00",
+            "end": "16:00",
+            "mode": "f2f",
+            "location": "K17 Sem 113"
+          },
+          {
+            "instructors": [
+              "z5478184",
+              "z5363013",
+              "z5481519",
+              "z5591928",
+              "z5589644"
+            ],
+            "weeks": "5",
+            "day": "Wed",
+            "start": "16:00",
+            "end": "18:00",
+            "mode": "f2f",
+            "location": "Tyree G16"
+          },
+          {
+            "instructors": [
+              "z5589644",
+              "z5583784",
+              "z5584964"
+            ],
+            "weeks": "5",
+            "day": "Thu",
+            "start": "12:00",
+            "end": "14:00",
+            "mode": "f2f",
+            "location": "K17 Sem 113"
+          },
+          {
+            "instructors": [
+              "z5311190",
+              "z5480597",
+              "z5505620"
+            ],
+            "weeks": "5",
+            "day": "Sat",
+            "start": "10:00",
+            "end": "12:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5311190",
+              "z5584964",
+              "z5362287"
+            ],
+            "weeks": "5",
+            "day": "Sat",
+            "start": "12:00",
+            "end": "14:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5584964",
+              "z5480745",
+              "z5594060",
+              "z5362287"
+            ],
+            "weeks": "5",
+            "day": "Sat",
+            "start": "14:00",
+            "end": "16:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5481519",
+              "z5584964",
+              "z5488485",
+              "z5591928"
+            ],
+            "weeks": "6",
+            "day": "Mon",
+            "start": "9:00",
+            "end": "11:00",
+            "mode": "f2f",
+            "location": "Colombo LG02"
+          },
+          {
+            "instructors": [
+              "z5600603",
+              "z5492092",
+              "z5488485",
+              "z5589786",
+              "z5481519"
+            ],
+            "weeks": "6",
+            "day": "Mon",
+            "start": "16:00",
+            "end": "18:00",
+            "mode": "f2f",
+            "location": "Elec G03"
+          },
+          {
+            "instructors": [
+              "z5505620",
+              "z5311190",
+              "z5587745"
+            ],
+            "weeks": "6",
+            "day": "Mon",
+            "start": "18:00",
+            "end": "20:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5480597",
+              "z5600603",
+              "z5591973",
+              "z5480745",
+              "z5505620"
+            ],
+            "weeks": "6",
+            "day": "Tue",
+            "start": "18:00",
+            "end": "20:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5482111",
+              "z5587745",
+              "z5505620",
+              "z5600603",
+              "z5362287"
+            ],
+            "weeks": "6",
+            "day": "Wed",
+            "start": "9:00",
+            "end": "11:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5481743",
+              "z5363013",
+              "z5589644",
+              "z5591928",
+              "z5505620"
+            ],
+            "weeks": "6",
+            "day": "Wed",
+            "start": "16:00",
+            "end": "18:00",
+            "mode": "f2f",
+            "location": "Tyree G16"
+          },
+          {
+            "instructors": [
+              "z5591973",
+              "z5488485",
+              "z5505620",
+              "z5359839",
+              "z3330012"
+            ],
+            "weeks": "6",
+            "day": "Wed",
+            "start": "18:00",
+            "end": "20:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5492092",
+              "z5505620",
+              "z5488485",
+              "z5589786"
+            ],
+            "weeks": "6",
+            "day": "Fri",
+            "start": "12:00",
+            "end": "14:00",
+            "mode": "f2f",
+            "location": "H13 Room 1040"
+          },
+          {
+            "instructors": [
+              "z5482756",
+              "z5584964",
+              "z5311190",
+              "z5480597",
+              "z5480745"
+            ],
+            "weeks": "6",
+            "day": "Sat",
+            "start": "10:00",
+            "end": "12:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5482756",
+              "z5600603",
+              "z5362287",
+              "z5584964",
+              "z5311190"
+            ],
+            "weeks": "6",
+            "day": "Sat",
+            "start": "12:00",
+            "end": "14:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5505620",
+              "z3330012",
+              "z5482111",
+              "z5311190"
+            ],
+            "weeks": "6",
+            "day": "Sat",
+            "start": "14:00",
+            "end": "16:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5488485",
+              "z5505620",
+              "z5587745"
+            ],
+            "weeks": "7",
+            "day": "Mon",
+            "start": "9:00",
+            "end": "11:00",
+            "mode": "f2f",
+            "location": "Colombo LG02"
+          },
+          {
+            "instructors": [
+              "z5264081",
+              "z5505620",
+              "z5478184"
+            ],
+            "weeks": "7",
+            "day": "Mon",
+            "start": "16:00",
+            "end": "18:00",
+            "mode": "f2f",
+            "location": "Elec G03"
+          },
+          {
+            "instructors": [
+              "z5482756",
+              "z5359839",
+              "z5362287"
+            ],
+            "weeks": "7",
+            "day": "Mon",
+            "start": "18:00",
+            "end": "20:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5589644"
+            ],
+            "weeks": "7",
+            "day": "Thu",
+            "start": "12:00",
+            "end": "14:00",
+            "mode": "f2f",
+            "location": "K17 Sem 113"
+          },
+          {
+            "instructors": [
+              "z5592920",
+              "z5584964",
+              "z5206727"
+            ],
+            "weeks": "8",
+            "day": "Mon",
+            "start": "9:00",
+            "end": "11:00",
+            "mode": "f2f",
+            "location": "Colombo LG02"
+          },
+          {
+            "instructors": [
+              "z5592920",
+              "z5363191"
+            ],
+            "weeks": "8",
+            "day": "Mon",
+            "start": "16:00",
+            "end": "18:00",
+            "mode": "f2f",
+            "location": "Elec G03"
+          },
+          {
+            "instructors": [
+              "z5505620"
+            ],
+            "weeks": "8",
+            "day": "Mon",
+            "start": "18:00",
+            "end": "20:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5480745"
+            ],
+            "weeks": "8",
+            "day": "Tue",
+            "start": "14:00",
+            "end": "16:00",
+            "mode": "f2f",
+            "location": "K17 Sem 113"
+          },
+          {
+            "instructors": [
+              "z5480597",
+              "z5482756",
+              "z5206727"
+            ],
+            "weeks": "8",
+            "day": "Tue",
+            "start": "18:00",
+            "end": "20:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5587745",
+              "z5481519"
+            ],
+            "weeks": "8",
+            "day": "Wed",
+            "start": "9:00",
+            "end": "11:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5589786",
+              "z5591928",
+              "z5589644"
+            ],
+            "weeks": "8",
+            "day": "Wed",
+            "start": "16:00",
+            "end": "18:00",
+            "mode": "f2f",
+            "location": "Tyree G16"
+          },
+          {
+            "instructors": [
+              "z5584964"
+            ],
+            "weeks": "8",
+            "day": "Thu",
+            "start": "12:00",
+            "end": "14:00",
+            "mode": "f2f",
+            "location": "K17 Sem 113"
+          },
+          {
+            "instructors": [
+              "z5505620",
+              "z5492092"
+            ],
+            "weeks": "8",
+            "day": "Fri",
+            "start": "12:00",
+            "end": "14:00",
+            "mode": "f2f",
+            "location": "H13 Room 1040"
+          },
+          {
+            "instructors": [
+              "z5481519",
+              "z5311190"
+            ],
+            "weeks": "8",
+            "day": "Sat",
+            "start": "10:00",
+            "end": "12:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5600603",
+              "z5505620",
+              "z5584964",
+              "z5589786"
+            ],
+            "weeks": "9",
+            "day": "Mon",
+            "start": "9:00",
+            "end": "11:00",
+            "mode": "f2f",
+            "location": "Colombo LG02"
+          },
+          {
+            "instructors": [
+              "z5264081",
+              "z5592920",
+              "z5359839"
+            ],
+            "weeks": "9",
+            "day": "Mon",
+            "start": "16:00",
+            "end": "18:00",
+            "mode": "f2f",
+            "location": "Elec G03"
+          },
+          {
+            "instructors": [
+              "z5480745",
+              "z5587745",
+              "z5362287",
+              "z5359839"
+            ],
+            "weeks": "9",
+            "day": "Mon",
+            "start": "18:00",
+            "end": "20:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5505620",
+              "z5589786",
+              "z5481519"
+            ],
+            "weeks": "9",
+            "day": "Tue",
+            "start": "14:00",
+            "end": "16:00",
+            "mode": "f2f",
+            "location": "K17 Sem 113"
+          },
+          {
+            "instructors": [
+              "z5505620",
+              "z5363013",
+              "z5600603",
+              "z5591928",
+              "z5587745"
+            ],
+            "weeks": "9",
+            "day": "Wed",
+            "start": "14:00",
+            "end": "16:00",
+            "mode": "f2f",
+            "location": "K17 Sem 113"
+          },
+          {
+            "instructors": [
+              "z5363013",
+              "z5589644",
+              "z5600603",
+              "z5477317",
+              "z5481743"
+            ],
+            "weeks": "9",
+            "day": "Wed",
+            "start": "16:00",
+            "end": "18:00",
+            "mode": "f2f",
+            "location": "Tyree G16"
+          },
+          {
+            "instructors": [
+              "z5594060",
+              "z5591973",
+              "z5413977",
+              "z5505620"
+            ],
+            "weeks": "9",
+            "day": "Wed",
+            "start": "18:00",
+            "end": "20:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5583784",
+              "z5481519",
+              "z5481743",
+              "z5482111",
+              "z5478184"
+            ],
+            "weeks": "9",
+            "day": "Thu",
+            "start": "12:00",
+            "end": "14:00",
+            "mode": "f2f",
+            "location": "K17 Sem 113"
+          },
+          {
+            "instructors": [
+              "z5418566",
+              "z5505620",
+              "z5488485",
+              "z5492092"
+            ],
+            "weeks": "9",
+            "day": "Fri",
+            "start": "12:00",
+            "end": "14:00",
+            "mode": "f2f",
+            "location": "H13 Room 1040"
+          },
+          {
+            "instructors": [
+              "z5311190",
+              "z5362287",
+              "z5481519",
+              "z5505620",
+              "z5480597"
+            ],
+            "weeks": "9",
+            "day": "Sat",
+            "start": "10:00",
+            "end": "12:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5591973",
+              "z5480745",
+              "z5600603",
+              "z5594060",
+              "z5584964"
+            ],
+            "weeks": "9",
+            "day": "Sat",
+            "start": "12:00",
+            "end": "14:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5481519",
+              "z5600603",
+              "z5584964"
+            ],
+            "weeks": "9",
+            "day": "Sat",
+            "start": "14:00",
+            "end": "16:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5488485",
+              "z5206727"
+            ],
+            "weeks": "10",
+            "day": "Mon",
+            "start": "9:00",
+            "end": "11:00",
+            "mode": "f2f",
+            "location": "Colombo LG02"
+          },
+          {
+            "instructors": [
+              "z5592920",
+              "z5363191",
+              "z5488485"
+            ],
+            "weeks": "10",
+            "day": "Mon",
+            "start": "16:00",
+            "end": "18:00",
+            "mode": "f2f",
+            "location": "Elec G03"
+          },
+          {
+            "instructors": [
+              "z5505620",
+              "z5311190",
+              "z5587745"
+            ],
+            "weeks": "10",
+            "day": "Mon",
+            "start": "18:00",
+            "end": "20:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5264081",
+              "z5591928",
+              "z5505620",
+              "z5481519"
+            ],
+            "weeks": "10",
+            "day": "Tue",
+            "start": "14:00",
+            "end": "16:00",
+            "mode": "f2f",
+            "location": "K17 Sem 113"
+          },
+          {
+            "instructors": [
+              "z5600603",
+              "z5594060",
+              "z5480597",
+              "z5206727"
+            ],
+            "weeks": "10",
+            "day": "Tue",
+            "start": "18:00",
+            "end": "20:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5505620",
+              "z5600603"
+            ],
+            "weeks": "10",
+            "day": "Wed",
+            "start": "9:00",
+            "end": "11:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5363013",
+              "z5587745",
+              "z5505620",
+              "z5481519"
+            ],
+            "weeks": "10",
+            "day": "Wed",
+            "start": "14:00",
+            "end": "16:00",
+            "mode": "f2f",
+            "location": "K17 Sem 113"
+          },
+          {
+            "instructors": [
+              "z5589644",
+              "z5477317"
+            ],
+            "weeks": "10",
+            "day": "Wed",
+            "start": "16:00",
+            "end": "18:00",
+            "mode": "f2f",
+            "location": "Tyree G16"
+          },
+          {
+            "instructors": [
+              "z5359839",
+              "z5488485"
+            ],
+            "weeks": "10",
+            "day": "Wed",
+            "start": "18:00",
+            "end": "20:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5583784",
+              "z5584964",
+              "z5600603"
+            ],
+            "weeks": "10",
+            "day": "Thu",
+            "start": "12:00",
+            "end": "14:00",
+            "mode": "f2f",
+            "location": "K17 Sem 113"
+          },
+          {
+            "instructors": [
+              "z5492092",
+              "z5206727",
+              "z5488485",
+              "z5363191",
+              "z5505620"
+            ],
+            "weeks": "10",
+            "day": "Fri",
+            "start": "12:00",
+            "end": "14:00",
+            "mode": "f2f",
+            "location": "H13 Room 1040"
+          },
+          {
+            "instructors": [
+              "z5600603",
+              "z5584964",
+              "z5594060",
+              "z5492092"
+            ],
+            "weeks": "10",
+            "day": "Sat",
+            "start": "10:00",
+            "end": "12:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5481519",
+              "z5206727",
+              "z5362287",
+              "z5584964"
+            ],
+            "weeks": "10",
+            "day": "Sat",
+            "start": "12:00",
+            "end": "14:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5480597",
+              "z5584964",
+              "z3330012"
+            ],
+            "weeks": "10",
+            "day": "Sat",
+            "start": "14:00",
+            "end": "16:00",
+            "mode": "online"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "course": "COMP1521",
+    "allocation": {
+      "class": {
+        "consult": [
+          {
+            "instructors": [
+              "z5218654"
+            ],
+            "weeks": "3",
+            "day": "Thu",
+            "start": "18:00",
+            "end": "20:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5476589",
+              "z5592665"
+            ],
+            "weeks": "3",
+            "day": "Fri",
+            "start": "12:00",
+            "end": "14:00",
+            "mode": "f2f",
+            "location": "H13 Room 1040"
+          },
+          {
+            "instructors": [
+              "z5590854",
+              "z5592665",
+              "z5218654"
+            ],
+            "weeks": "3",
+            "day": "Sat",
+            "start": "10:00",
+            "end": "12:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5592665"
+            ],
+            "weeks": "3",
+            "day": "Sat",
+            "start": "12:00",
+            "end": "14:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5590854"
+            ],
+            "weeks": "3",
+            "day": "Sat",
+            "start": "14:00",
+            "end": "16:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5367576",
+              "z5417305",
+              "z5479514"
+            ],
+            "weeks": "4",
+            "day": "Mon",
+            "start": "9:00",
+            "end": "11:00",
+            "mode": "f2f",
+            "location": "Colombo LG02"
+          },
+          {
+            "instructors": [
+              "z5263682",
+              "z5419238",
+              "z5348946"
+            ],
+            "weeks": "4",
+            "day": "Mon",
+            "start": "16:00",
+            "end": "18:00",
+            "mode": "f2f",
+            "location": "Elec G03"
+          },
+          {
+            "instructors": [
+              "z5420291",
+              "z5476589"
+            ],
+            "weeks": "4",
+            "day": "Mon",
+            "start": "18:00",
+            "end": "20:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5477074",
+              "z5360922",
+              "z5592665"
+            ],
+            "weeks": "4",
+            "day": "Tue",
+            "start": "14:00",
+            "end": "16:00",
+            "mode": "f2f",
+            "location": "K17 Sem 113"
+          },
+          {
+            "instructors": [
+              "z5420291",
+              "z5417305"
+            ],
+            "weeks": "4",
+            "day": "Wed",
+            "start": "16:00",
+            "end": "18:00",
+            "mode": "f2f",
+            "location": "Tyree G16"
+          },
+          {
+            "instructors": [
+              "z5348946"
+            ],
+            "weeks": "4",
+            "day": "Wed",
+            "start": "18:00",
+            "end": "20:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5263682",
+              "z5488170",
+              "z5218654"
+            ],
+            "weeks": "4",
+            "day": "Thu",
+            "start": "12:00",
+            "end": "14:00",
+            "mode": "f2f",
+            "location": "K17 Sem 113"
+          },
+          {
+            "instructors": [
+              "z5218654",
+              "z5420291"
+            ],
+            "weeks": "4",
+            "day": "Thu",
+            "start": "18:00",
+            "end": "20:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5218654",
+              "z5420403",
+              "z5476286"
+            ],
+            "weeks": "4",
+            "day": "Fri",
+            "start": "12:00",
+            "end": "14:00",
+            "mode": "f2f",
+            "location": "H13 Room 1040"
+          },
+          {
+            "instructors": [
+              "z5218654",
+              "z5592665",
+              "z5590854"
+            ],
+            "weeks": "4",
+            "day": "Sat",
+            "start": "12:00",
+            "end": "14:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5218654"
+            ],
+            "weeks": "4",
+            "day": "Sat",
+            "start": "14:00",
+            "end": "16:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5592665",
+              "z5420273"
+            ],
+            "weeks": "5",
+            "day": "Mon",
+            "start": "9:00",
+            "end": "11:00",
+            "mode": "f2f",
+            "location": "Colombo LG02"
+          },
+          {
+            "instructors": [
+              "z5420291",
+              "z5476589"
+            ],
+            "weeks": "5",
+            "day": "Mon",
+            "start": "18:00",
+            "end": "20:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5592665",
+              "z5590854"
+            ],
+            "weeks": "5",
+            "day": "Tue",
+            "start": "14:00",
+            "end": "16:00",
+            "mode": "f2f",
+            "location": "K17 Sem 113"
+          },
+          {
+            "instructors": [
+              "z5360922",
+              "z5420291",
+              "z5417305"
+            ],
+            "weeks": "5",
+            "day": "Wed",
+            "start": "16:00",
+            "end": "18:00",
+            "mode": "f2f",
+            "location": "Tyree G16"
+          },
+          {
+            "instructors": [
+              "z5348946",
+              "z5590854",
+              "z5420291"
+            ],
+            "weeks": "5",
+            "day": "Wed",
+            "start": "18:00",
+            "end": "20:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5263682",
+              "z5218654",
+              "z5371689"
+            ],
+            "weeks": "5",
+            "day": "Thu",
+            "start": "12:00",
+            "end": "14:00",
+            "mode": "f2f",
+            "location": "K17 Sem 113"
+          },
+          {
+            "instructors": [
+              "z5218654",
+              "z5420291"
+            ],
+            "weeks": "5",
+            "day": "Thu",
+            "start": "18:00",
+            "end": "20:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5218654",
+              "z5348946",
+              "z5476286"
+            ],
+            "weeks": "5",
+            "day": "Fri",
+            "start": "12:00",
+            "end": "14:00",
+            "mode": "f2f",
+            "location": "H13 Room 1040"
+          },
+          {
+            "instructors": [
+              "z5218654",
+              "z5590854",
+              "z5592665"
+            ],
+            "weeks": "5",
+            "day": "Sat",
+            "start": "10:00",
+            "end": "12:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5592665",
+              "z5420291",
+              "z5218654"
+            ],
+            "weeks": "5",
+            "day": "Sat",
+            "start": "12:00",
+            "end": "14:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5590854",
+              "z5420291",
+              "z5592665"
+            ],
+            "weeks": "5",
+            "day": "Sat",
+            "start": "14:00",
+            "end": "16:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5420273",
+              "z5417305",
+              "z5479514"
+            ],
+            "weeks": "6",
+            "day": "Mon",
+            "start": "9:00",
+            "end": "11:00",
+            "mode": "f2f",
+            "location": "Colombo LG02"
+          },
+          {
+            "instructors": [
+              "z5488170"
+            ],
+            "weeks": "6",
+            "day": "Mon",
+            "start": "16:00",
+            "end": "18:00",
+            "mode": "f2f",
+            "location": "Elec G03"
+          },
+          {
+            "instructors": [
+              "z5587978",
+              "z5218654"
+            ],
+            "weeks": "6",
+            "day": "Tue",
+            "start": "18:00",
+            "end": "20:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5590854",
+              "z5592665"
+            ],
+            "weeks": "6",
+            "day": "Sat",
+            "start": "10:00",
+            "end": "12:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5419238",
+              "z5263682",
+              "z5417305"
+            ],
+            "weeks": "7",
+            "day": "Mon",
+            "start": "16:00",
+            "end": "18:00",
+            "mode": "f2f",
+            "location": "Elec G03"
+          },
+          {
+            "instructors": [
+              "z5477074",
+              "z5360922"
+            ],
+            "weeks": "7",
+            "day": "Tue",
+            "start": "14:00",
+            "end": "16:00",
+            "mode": "f2f",
+            "location": "K17 Sem 113"
+          },
+          {
+            "instructors": [
+              "z5360922"
+            ],
+            "weeks": "7",
+            "day": "Wed",
+            "start": "16:00",
+            "end": "18:00",
+            "mode": "f2f",
+            "location": "Tyree G16"
+          },
+          {
+            "instructors": [
+              "z5590854"
+            ],
+            "weeks": "7",
+            "day": "Wed",
+            "start": "18:00",
+            "end": "20:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5592665",
+              "z5263682",
+              "z5488170"
+            ],
+            "weeks": "7",
+            "day": "Thu",
+            "start": "12:00",
+            "end": "14:00",
+            "mode": "f2f",
+            "location": "K17 Sem 113"
+          },
+          {
+            "instructors": [
+              "z5590854"
+            ],
+            "weeks": "7",
+            "day": "Sat",
+            "start": "10:00",
+            "end": "12:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5590854"
+            ],
+            "weeks": "7",
+            "day": "Sat",
+            "start": "12:00",
+            "end": "14:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5420273"
+            ],
+            "weeks": "8",
+            "day": "Mon",
+            "start": "9:00",
+            "end": "11:00",
+            "mode": "f2f",
+            "location": "Colombo LG02"
+          },
+          {
+            "instructors": [
+              "z5488170",
+              "z5348946",
+              "z5263682"
+            ],
+            "weeks": "8",
+            "day": "Mon",
+            "start": "16:00",
+            "end": "18:00",
+            "mode": "f2f",
+            "location": "Elec G03"
+          },
+          {
+            "instructors": [
+              "z5420291"
+            ],
+            "weeks": "8",
+            "day": "Mon",
+            "start": "18:00",
+            "end": "20:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5477074",
+              "z5367576",
+              "z5360922"
+            ],
+            "weeks": "8",
+            "day": "Tue",
+            "start": "14:00",
+            "end": "16:00",
+            "mode": "f2f",
+            "location": "K17 Sem 113"
+          },
+          {
+            "instructors": [
+              "z5587978",
+              "z5420291"
+            ],
+            "weeks": "8",
+            "day": "Tue",
+            "start": "18:00",
+            "end": "20:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5420291",
+              "z5348946",
+              "z5590854"
+            ],
+            "weeks": "8",
+            "day": "Wed",
+            "start": "18:00",
+            "end": "20:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5488170",
+              "z5420403"
+            ],
+            "weeks": "8",
+            "day": "Thu",
+            "start": "12:00",
+            "end": "14:00",
+            "mode": "f2f",
+            "location": "K17 Sem 113"
+          },
+          {
+            "instructors": [
+              "z5218654"
+            ],
+            "weeks": "8",
+            "day": "Sat",
+            "start": "10:00",
+            "end": "12:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5218654",
+              "z5590854"
+            ],
+            "weeks": "8",
+            "day": "Sat",
+            "start": "12:00",
+            "end": "14:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5218654",
+              "z5590854"
+            ],
+            "weeks": "8",
+            "day": "Sat",
+            "start": "14:00",
+            "end": "16:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5420273"
+            ],
+            "weeks": "9",
+            "day": "Mon",
+            "start": "9:00",
+            "end": "11:00",
+            "mode": "f2f",
+            "location": "Colombo LG02"
+          },
+          {
+            "instructors": [
+              "z5476286",
+              "z5419238"
+            ],
+            "weeks": "9",
+            "day": "Mon",
+            "start": "16:00",
+            "end": "18:00",
+            "mode": "f2f",
+            "location": "Elec G03"
+          },
+          {
+            "instructors": [
+              "z5476589"
+            ],
+            "weeks": "9",
+            "day": "Mon",
+            "start": "18:00",
+            "end": "20:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5587978",
+              "z5360922",
+              "z5367576"
+            ],
+            "weeks": "9",
+            "day": "Tue",
+            "start": "14:00",
+            "end": "16:00",
+            "mode": "f2f",
+            "location": "K17 Sem 113"
+          },
+          {
+            "instructors": [
+              "z5218654"
+            ],
+            "weeks": "9",
+            "day": "Tue",
+            "start": "18:00",
+            "end": "20:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5479514"
+            ],
+            "weeks": "9",
+            "day": "Wed",
+            "start": "9:00",
+            "end": "11:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5371689",
+              "z5420291",
+              "z5417305"
+            ],
+            "weeks": "9",
+            "day": "Wed",
+            "start": "14:00",
+            "end": "16:00",
+            "mode": "f2f",
+            "location": "K17 Sem 113"
+          },
+          {
+            "instructors": [
+              "z5417305",
+              "z5360922"
+            ],
+            "weeks": "9",
+            "day": "Wed",
+            "start": "16:00",
+            "end": "18:00",
+            "mode": "f2f",
+            "location": "Tyree G16"
+          },
+          {
+            "instructors": [
+              "z5371689",
+              "z5263682",
+              "z5420403"
+            ],
+            "weeks": "9",
+            "day": "Thu",
+            "start": "12:00",
+            "end": "14:00",
+            "mode": "f2f",
+            "location": "K17 Sem 113"
+          },
+          {
+            "instructors": [
+              "z5420403",
+              "z5476286"
+            ],
+            "weeks": "9",
+            "day": "Fri",
+            "start": "12:00",
+            "end": "14:00",
+            "mode": "f2f",
+            "location": "H13 Room 1040"
+          },
+          {
+            "instructors": [
+              "z5590854"
+            ],
+            "weeks": "9",
+            "day": "Sat",
+            "start": "10:00",
+            "end": "12:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5592665",
+              "z5590854",
+              "z5218654"
+            ],
+            "weeks": "9",
+            "day": "Sat",
+            "start": "12:00",
+            "end": "14:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5218654"
+            ],
+            "weeks": "9",
+            "day": "Sat",
+            "start": "14:00",
+            "end": "16:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5476286",
+              "z5263682",
+              "z5419238"
+            ],
+            "weeks": "10",
+            "day": "Mon",
+            "start": "16:00",
+            "end": "18:00",
+            "mode": "f2f",
+            "location": "Elec G03"
+          },
+          {
+            "instructors": [
+              "z5590854",
+              "z5371689"
+            ],
+            "weeks": "10",
+            "day": "Tue",
+            "start": "14:00",
+            "end": "16:00",
+            "mode": "f2f",
+            "location": "K17 Sem 113"
+          },
+          {
+            "instructors": [
+              "z5417305",
+              "z5360922",
+              "z5420291"
+            ],
+            "weeks": "10",
+            "day": "Wed",
+            "start": "14:00",
+            "end": "16:00",
+            "mode": "f2f",
+            "location": "K17 Sem 113"
+          },
+          {
+            "instructors": [
+              "z5417305",
+              "z5360922"
+            ],
+            "weeks": "10",
+            "day": "Wed",
+            "start": "16:00",
+            "end": "18:00",
+            "mode": "f2f",
+            "location": "Tyree G16"
+          },
+          {
+            "instructors": [
+              "z5420291",
+              "z5590854"
+            ],
+            "weeks": "10",
+            "day": "Wed",
+            "start": "18:00",
+            "end": "20:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5263682",
+              "z5371689",
+              "z5488170",
+              "z5419238"
+            ],
+            "weeks": "10",
+            "day": "Thu",
+            "start": "12:00",
+            "end": "14:00",
+            "mode": "f2f",
+            "location": "K17 Sem 113"
+          },
+          {
+            "instructors": [
+              "z5420291",
+              "z5590854",
+              "z5218654"
+            ],
+            "weeks": "10",
+            "day": "Thu",
+            "start": "18:00",
+            "end": "20:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5476589",
+              "z5592665"
+            ],
+            "weeks": "10",
+            "day": "Fri",
+            "start": "12:00",
+            "end": "14:00",
+            "mode": "f2f",
+            "location": "H13 Room 1040"
+          },
+          {
+            "instructors": [
+              "z5420291",
+              "z5218654",
+              "z5592665"
+            ],
+            "weeks": "10",
+            "day": "Sat",
+            "start": "12:00",
+            "end": "14:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5590854",
+              "z5218654",
+              "z5592665",
+              "z5420291"
+            ],
+            "weeks": "10",
+            "day": "Sat",
+            "start": "14:00",
+            "end": "16:00",
+            "mode": "online"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "course": "COMP2521",
+    "allocation": {
+      "class": {
+        "consult": [
+          {
+            "instructors": [
+              "z5311210",
+              "z5309265"
+            ],
+            "weeks": "3",
+            "day": "Wed",
+            "start": "14:00",
+            "end": "16:00",
+            "mode": "f2f",
+            "location": "K17 Sem 113"
+          },
+          {
+            "instructors": [
+              "z5369343"
+            ],
+            "weeks": "3",
+            "day": "Fri",
+            "start": "12:00",
+            "end": "14:00",
+            "mode": "f2f",
+            "location": "H13 Room 1040"
+          },
+          {
+            "instructors": [
+              "z5420264"
+            ],
+            "weeks": "3",
+            "day": "Mon",
+            "start": "18:00",
+            "end": "20:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5478450"
+            ],
+            "weeks": "3",
+            "day": "Thu",
+            "start": "18:00",
+            "end": "20:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5311210"
+            ],
+            "weeks": "4",
+            "day": "Mon",
+            "start": "16:00",
+            "end": "18:00",
+            "mode": "f2f",
+            "location": "Elec G03"
+          },
+          {
+            "instructors": [
+              "z5585720",
+              "z5260098"
+            ],
+            "weeks": "4",
+            "day": "Mon",
+            "start": "18:00",
+            "end": "20:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5421387"
+            ],
+            "weeks": "4",
+            "day": "Wed",
+            "start": "9:00",
+            "end": "11:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5482709"
+            ],
+            "weeks": "4",
+            "day": "Thu",
+            "start": "18:00",
+            "end": "20:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5482709",
+              "z5260098",
+              "z5585720"
+            ],
+            "weeks": "4",
+            "day": "Sat",
+            "start": "12:00",
+            "end": "14:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5482709",
+              "z5478450"
+            ],
+            "weeks": "4",
+            "day": "Sat",
+            "start": "14:00",
+            "end": "16:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5220277",
+              "z5439505"
+            ],
+            "weeks": "5",
+            "day": "Mon",
+            "start": "9:00",
+            "end": "11:00",
+            "mode": "f2f",
+            "location": "Colombo LG02"
+          },
+          {
+            "instructors": [
+              "z5074984",
+              "z5482709",
+              "z5316869"
+            ],
+            "weeks": "5",
+            "day": "Tue",
+            "start": "14:00",
+            "end": "16:00",
+            "mode": "f2f",
+            "location": "K17 Sem 113"
+          },
+          {
+            "instructors": [
+              "z5444481",
+              "z5309265",
+              "z5316869",
+              "z5420264"
+            ],
+            "weeks": "5",
+            "day": "Wed",
+            "start": "16:00",
+            "end": "18:00",
+            "mode": "f2f",
+            "location": "Tyree G16"
+          },
+          {
+            "instructors": [
+              "z5482709",
+              "z5421387"
+            ],
+            "weeks": "5",
+            "day": "Thu",
+            "start": "12:00",
+            "end": "14:00",
+            "mode": "f2f",
+            "location": "K17 Sem 113"
+          },
+          {
+            "instructors": [
+              "z5439505",
+              "z5363122",
+              "z5420264",
+              "z5360670"
+            ],
+            "weeks": "5",
+            "day": "Fri",
+            "start": "12:00",
+            "end": "14:00",
+            "mode": "f2f",
+            "location": "H13 Room 1040"
+          },
+          {
+            "instructors": [
+              "z5363122",
+              "z5585720"
+            ],
+            "weeks": "5",
+            "day": "Mon",
+            "start": "18:00",
+            "end": "20:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5421387",
+              "z5478450"
+            ],
+            "weeks": "5",
+            "day": "Wed",
+            "start": "9:00",
+            "end": "11:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5585720",
+              "z5482709"
+            ],
+            "weeks": "5",
+            "day": "Thu",
+            "start": "18:00",
+            "end": "20:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5585720",
+              "z5420264",
+              "z5260098"
+            ],
+            "weeks": "5",
+            "day": "Sat",
+            "start": "14:00",
+            "end": "16:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5439505",
+              "z5457257",
+              "z5585720",
+              "z5360670"
+            ],
+            "weeks": "6",
+            "day": "Mon",
+            "start": "16:00",
+            "end": "18:00",
+            "mode": "f2f",
+            "location": "Elec G03"
+          },
+          {
+            "instructors": [
+              "z5420264",
+              "z5309265",
+              "z5316869"
+            ],
+            "weeks": "6",
+            "day": "Wed",
+            "start": "16:00",
+            "end": "18:00",
+            "mode": "f2f",
+            "location": "Tyree G16"
+          },
+          {
+            "instructors": [
+              "z5363122",
+              "z5369343",
+              "z5439505",
+              "z5360670",
+              "z5420264"
+            ],
+            "weeks": "6",
+            "day": "Fri",
+            "start": "12:00",
+            "end": "14:00",
+            "mode": "f2f",
+            "location": "H13 Room 1040"
+          },
+          {
+            "instructors": [
+              "z5363122",
+              "z5420264"
+            ],
+            "weeks": "6",
+            "day": "Mon",
+            "start": "18:00",
+            "end": "20:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5482709",
+              "z5260098",
+              "z5074984",
+              "z5316897"
+            ],
+            "weeks": "6",
+            "day": "Tue",
+            "start": "18:00",
+            "end": "20:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5363122",
+              "z5260098",
+              "z5478450"
+            ],
+            "weeks": "6",
+            "day": "Wed",
+            "start": "18:00",
+            "end": "20:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5482709",
+              "z5260098"
+            ],
+            "weeks": "6",
+            "day": "Thu",
+            "start": "18:00",
+            "end": "20:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5585720",
+              "z5482709",
+              "z5260098"
+            ],
+            "weeks": "6",
+            "day": "Sat",
+            "start": "10:00",
+            "end": "12:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5585720",
+              "z5482709",
+              "z5369343",
+              "z5420264"
+            ],
+            "weeks": "6",
+            "day": "Sat",
+            "start": "12:00",
+            "end": "14:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5420264",
+              "z5482709",
+              "z5585720",
+              "z5260098",
+              "z5478450"
+            ],
+            "weeks": "6",
+            "day": "Sat",
+            "start": "14:00",
+            "end": "16:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5220277",
+              "z5439505",
+              "z5309265"
+            ],
+            "weeks": "7",
+            "day": "Mon",
+            "start": "9:00",
+            "end": "11:00",
+            "mode": "f2f",
+            "location": "Colombo LG02"
+          },
+          {
+            "instructors": [
+              "z5457257",
+              "z5420264",
+              "z5360670"
+            ],
+            "weeks": "7",
+            "day": "Mon",
+            "start": "16:00",
+            "end": "18:00",
+            "mode": "f2f",
+            "location": "Elec G03"
+          },
+          {
+            "instructors": [
+              "z5444481",
+              "z5363122",
+              "z5260098"
+            ],
+            "weeks": "7",
+            "day": "Mon",
+            "start": "18:00",
+            "end": "20:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5260098",
+              "z5316897"
+            ],
+            "weeks": "7",
+            "day": "Tue",
+            "start": "18:00",
+            "end": "20:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5478450"
+            ],
+            "weeks": "7",
+            "day": "Wed",
+            "start": "9:00",
+            "end": "11:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5220277"
+            ],
+            "weeks": "8",
+            "day": "Mon",
+            "start": "9:00",
+            "end": "11:00",
+            "mode": "f2f",
+            "location": "Colombo LG02"
+          },
+          {
+            "instructors": [
+              "z5074984",
+              "z5316869"
+            ],
+            "weeks": "8",
+            "day": "Tue",
+            "start": "14:00",
+            "end": "16:00",
+            "mode": "f2f",
+            "location": "K17 Sem 113"
+          },
+          {
+            "instructors": [
+              "z5444481"
+            ],
+            "weeks": "8",
+            "day": "Wed",
+            "start": "16:00",
+            "end": "18:00",
+            "mode": "f2f",
+            "location": "Tyree G16"
+          },
+          {
+            "instructors": [
+              "z5457257",
+              "z5363122"
+            ],
+            "weeks": "8",
+            "day": "Thu",
+            "start": "12:00",
+            "end": "14:00",
+            "mode": "f2f",
+            "location": "K17 Sem 113"
+          },
+          {
+            "instructors": [
+              "z5260098"
+            ],
+            "weeks": "8",
+            "day": "Wed",
+            "start": "9:00",
+            "end": "11:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5421387",
+              "z5478450"
+            ],
+            "weeks": "8",
+            "day": "Wed",
+            "start": "18:00",
+            "end": "20:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5482709"
+            ],
+            "weeks": "8",
+            "day": "Thu",
+            "start": "18:00",
+            "end": "20:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5260098"
+            ],
+            "weeks": "8",
+            "day": "Sat",
+            "start": "10:00",
+            "end": "12:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5311210"
+            ],
+            "weeks": "9",
+            "day": "Mon",
+            "start": "16:00",
+            "end": "18:00",
+            "mode": "f2f",
+            "location": "Elec G03"
+          },
+          {
+            "instructors": [
+              "z5074984",
+              "z5316869",
+              "z5369343"
+            ],
+            "weeks": "9",
+            "day": "Tue",
+            "start": "14:00",
+            "end": "16:00",
+            "mode": "f2f",
+            "location": "K17 Sem 113"
+          },
+          {
+            "instructors": [
+              "z5311210",
+              "z5309265"
+            ],
+            "weeks": "9",
+            "day": "Wed",
+            "start": "14:00",
+            "end": "16:00",
+            "mode": "f2f",
+            "location": "K17 Sem 113"
+          },
+          {
+            "instructors": [
+              "z5220277"
+            ],
+            "weeks": "9",
+            "day": "Wed",
+            "start": "16:00",
+            "end": "18:00",
+            "mode": "f2f",
+            "location": "Tyree G16"
+          },
+          {
+            "instructors": [
+              "z5369343"
+            ],
+            "weeks": "9",
+            "day": "Fri",
+            "start": "12:00",
+            "end": "14:00",
+            "mode": "f2f",
+            "location": "H13 Room 1040"
+          },
+          {
+            "instructors": [
+              "z5478450",
+              "z5420264"
+            ],
+            "weeks": "9",
+            "day": "Mon",
+            "start": "18:00",
+            "end": "20:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5316897",
+              "z5074984",
+              "z5482709"
+            ],
+            "weeks": "9",
+            "day": "Tue",
+            "start": "18:00",
+            "end": "20:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5420264",
+              "z5421387"
+            ],
+            "weeks": "9",
+            "day": "Wed",
+            "start": "9:00",
+            "end": "11:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5260098"
+            ],
+            "weeks": "9",
+            "day": "Thu",
+            "start": "18:00",
+            "end": "20:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5260098",
+              "z5363122",
+              "z5316897"
+            ],
+            "weeks": "9",
+            "day": "Sat",
+            "start": "10:00",
+            "end": "12:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5420264",
+              "z5478450",
+              "z5585720"
+            ],
+            "weeks": "9",
+            "day": "Sat",
+            "start": "12:00",
+            "end": "14:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5420264",
+              "z5585720"
+            ],
+            "weeks": "9",
+            "day": "Sat",
+            "start": "14:00",
+            "end": "16:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5220277",
+              "z5585720",
+              "z5420264"
+            ],
+            "weeks": "10",
+            "day": "Mon",
+            "start": "9:00",
+            "end": "11:00",
+            "mode": "f2f",
+            "location": "Colombo LG02"
+          },
+          {
+            "instructors": [
+              "z5311210",
+              "z5457257",
+              "z5360670"
+            ],
+            "weeks": "10",
+            "day": "Mon",
+            "start": "16:00",
+            "end": "18:00",
+            "mode": "f2f",
+            "location": "Elec G03"
+          },
+          {
+            "instructors": [
+              "z5316869",
+              "z5074984"
+            ],
+            "weeks": "10",
+            "day": "Tue",
+            "start": "14:00",
+            "end": "16:00",
+            "mode": "f2f",
+            "location": "K17 Sem 113"
+          },
+          {
+            "instructors": [
+              "z5421387",
+              "z5360670",
+              "z5260098",
+              "z5457257",
+              "z5311210"
+            ],
+            "weeks": "10",
+            "day": "Thu",
+            "start": "12:00",
+            "end": "14:00",
+            "mode": "f2f",
+            "location": "K17 Sem 113"
+          },
+          {
+            "instructors": [
+              "z5420264",
+              "z5439505",
+              "z5363122",
+              "z5360670"
+            ],
+            "weeks": "10",
+            "day": "Fri",
+            "start": "12:00",
+            "end": "14:00",
+            "mode": "f2f",
+            "location": "H13 Room 1040"
+          },
+          {
+            "instructors": [
+              "z5420264",
+              "z5260098",
+              "z5478450",
+              "z5585720"
+            ],
+            "weeks": "10",
+            "day": "Mon",
+            "start": "18:00",
+            "end": "20:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5260098",
+              "z5482709",
+              "z5585720"
+            ],
+            "weeks": "10",
+            "day": "Thu",
+            "start": "18:00",
+            "end": "20:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5316897",
+              "z5363122",
+              "z5260098"
+            ],
+            "weeks": "10",
+            "day": "Sat",
+            "start": "12:00",
+            "end": "14:00",
+            "mode": "online"
+          },
+          {
+            "instructors": [
+              "z5260098",
+              "z5585720",
+              "z5316897"
+            ],
+            "weeks": "10",
+            "day": "Sat",
+            "start": "14:00",
+            "end": "16:00",
+            "mode": "online"
+          }
+        ]
+      }
+    }
+  }
+]
