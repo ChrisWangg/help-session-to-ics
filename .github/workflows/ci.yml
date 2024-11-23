@@ -46,7 +46,7 @@ jobs:
       - name: Prepare binary
         run: |
           mkdir -p release/${{ matrix.artifact_name }}
-          cp target/${{ matrix.target }}/release/your_project_name${{ matrix.extension }} release/${{ matrix.artifact_name }}/your_project_name${{ matrix.extension }}
+          cp target/${{ matrix.target }}/release/help_session_to_ics${{ matrix.extension }} release/${{ matrix.artifact_name }}/help_session_to_ics${{ matrix.extension }}
 
       - name: Commit and push binaries
         uses: stefanzweifel/git-auto-commit-action@v4
