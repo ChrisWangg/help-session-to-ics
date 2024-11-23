@@ -23,15 +23,10 @@ jobs:
             target: x86_64-pc-windows-msvc
             artifact_name: windows
             extension: '.exe'
-          # macOS Intel Build
+          # macOS Build
           - os: macos-latest
             target: x86_64-apple-darwin
-            artifact_name: macos-x86_64
-            extension: ''
-          # macOS ARM Build
-          - os: macos-latest
-            target: aarch64-apple-darwin
-            artifact_name: macos-arm64
+            artifact_name: macos
             extension: ''
     steps:
       - uses: actions/checkout@v3
@@ -49,7 +44,7 @@ jobs:
       - name: Prepare binary
         run: |
           mkdir -p release/${{ matrix.artifact_name }}
-          cp target/${{ matrix.target }}/release/your_project_name${{ matrix.extension }} release/${{ matrix.artifact_name }}/your_project_name${{ matrix.extension }}
+          cp target/${{ matrix.target }}/release/help_session_to_ics${{ matrix.extension }} release/${{ matrix.artifact_name }}/help_session_to_ics${{ matrix.extension }}
 
       - name: Commit and push binaries
         uses: stefanzweifel/git-auto-commit-action@v4
