@@ -1,0 +1,61 @@
+name: Build and Update Release Folder
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    name: Build Binaries
+    runs-on: ${{ matrix.os }}
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          # Linux Build
+          - os: ubuntu-latest
+            target: x86_64-unknown-linux-gnu
+            artifact_name: linux
+            extension: ''
+          # Windows Build
+          - os: windows-latest
+            target: x86_64-pc-windows-msvc
+            artifact_name: windows
+            extension: '.exe'
+          # macOS Intel Build
+          - os: macos-latest
+            target: x86_64-apple-darwin
+            artifact_name: macos-x86_64
+            extension: ''
+          # macOS ARM Build
+          - os: macos-latest
+            target: aarch64-apple-darwin
+            artifact_name: macos-arm64
+            extension: ''
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Install Rust toolchain
+        uses: actions-rs/toolchain@v1
+        with:
+          toolchain: stable
+          target: ${{ matrix.target }}
+          override: true
+
+      - name: Build
+        run: cargo build --release --target ${{ matrix.target }}
+
+      - name: Prepare binary
+        run: |
+          mkdir -p release/${{ matrix.artifact_name }}
+          cp target/${{ matrix.target }}/release/your_project_name${{ matrix.extension }} release/${{ matrix.artifact_name }}/your_project_name${{ matrix.extension }}
+
+      - name: Commit and push binaries
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Update binaries [skip ci]
+          file_pattern: release/
+          branch: main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
