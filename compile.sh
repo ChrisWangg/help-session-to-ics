@@ -1,6 +1,21 @@
 #!/bin/bash
 set -e
 
+# Step 1: Download the export.js file
+echo "Downloading export.js..."
+wget -q -O src/data/export.js https://cgi.cse.unsw.edu.au/~xavc/hs/export.js
+
+echo "Formatting export.js..."
+prettier --write src/data/export.js
+
+# Step 2: Modify export.js with sed to add 'export' to the const declarations
+echo "Modifying export.js with sed..."
+sed -i '' 's/^const /export const /' src/data/export.js
+
+# Step 3: Run the convert_to_json.js script
+echo "Running convert_to_json.js..."
+node src/data/convert_to_json.js
+
 # List of targets to compile for
 targets=(
     "aarch64-apple-darwin"
@@ -42,3 +57,9 @@ echo "All binaries have been copied to the release directory."
 # Clean up .intentionally-empty-file.o files (if they exist)
 rm .intentionally-empty-file.o
 echo "Removed .intentionally-empty-file.o files."
+
+rm src/data/allocations.json
+rm src/data/tutors.json
+rm src/data/export.js
+echo "Removed data files."
+

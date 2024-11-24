@@ -206,11 +206,11 @@ fn generate_calendar(courses: &[Course], zid: &str) -> (ICalendar<'static>, bool
 }
 
 fn main() {
-    let tutors = read_tutors("src/tutors.json");
+    let tutors = read_tutors("src/data/tutors.json");
 
     let zid = get_verified_zid(&tutors);
 
-    let courses = read_allocations("src/allocations.json");
+    let courses = read_allocations("src/data/allocations.json");
 
     let (calendar, found_allocations) = generate_calendar(&courses, &zid);
 
